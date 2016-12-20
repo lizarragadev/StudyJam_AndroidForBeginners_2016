@@ -22,6 +22,12 @@ Caracteristicas
 * Visualizar en Google Maps la ubicación exacta del lugar.
 * Vibración cuando encuentre un lugar donde deba dejar regalos.
 
+Wireframes
+---
+Puedes visualizar los Wireframes de este proyecto.
+
+https://ninjamock.com/s/HHDDEE
+
 Compatibilidad
 ---
 Esta aplicación es compatible con versiones de Android 4.2 o superior.
