@@ -18,7 +18,7 @@ Listar y detallar todos los lugares que Papa Noel debe visitar.
 
 Caracteristicas
 ---
-* Musica de fondo (Con opción activar/desactivar).
+* Música de fondo (Con opción activar/desactivar).
 * Visualizar en Google Maps la ubicación exacta del lugar.
 * Vibración cuando encuentre un lugar donde deba dejar regalos.
 
@@ -39,8 +39,9 @@ Luego de ello dentro de Android Studio:
 * Build --> Rebuild Project
 * Run 
 
-Captura y corrida
+Corrida previa
 ---
+Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
 <div align="center">
     <center>
         <table border="0">
@@ -56,8 +57,8 @@ Captura y corrida
 
 Descripción técnica
 ---
-En este proyecto de utilizaron los siguientes componentes tanto en la vista como en la funcionalidad:
-Vista:
+En este proyecto de utilizáron los siguientes componentes tanto en el `diseño` como en la `funcionalidad`:
+**`Vista:`**
 * LinearLayout (Horizontal) para la alineación de las vistas principales.
 * RelativeLayout, para el acomodamiento de la segunda pantalla: SegundaActivity.
 * ToggleButtons, para activar y/o desactivar el sonido en la aplicación.
@@ -66,7 +67,7 @@ Vista:
 .
 .
 
-Funcionalidad:
+**`Funcionalidad:`**
 * MediaPlayer, para reproducir la canción de fondo de la app.
 * Vibrator, para asignar una vibración en ciertas partes de la app.
 * Ciclo de vida de una Activity, para detectar cuando se coloca en Pausado asi pueda seguir ejecutandose una tarea.
@@ -80,8 +81,14 @@ Gustavo Josue Lizarraga
 
 Contactos
 ---
+lizarraga.gux@gmail.com
+
 [Facebook](https://www.facebook.com/Gusn8)
+
 [Twitter](https://www.twitter.com/Gusn8_)
+
 [Google Plus](https://www.plus.google.com/GustavoLizarraga)
+
 [Github](https://www.github.com/Gusn8)
+
 [Sitio Web](http://www.miramicodigo.com/)
