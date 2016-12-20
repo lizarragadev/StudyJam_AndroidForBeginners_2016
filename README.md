@@ -58,6 +58,7 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
 Descripción técnica
 ---
 En este proyecto de utilizáron los siguientes componentes tanto en el `diseño` como en la `funcionalidad`:
+
 **`Vista:`**
 * LinearLayout (Horizontal) para la alineación de las vistas principales.
 * RelativeLayout, para el acomodamiento de la segunda pantalla: SegundaActivity.
@@ -83,12 +84,8 @@ Contactos
 ---
 lizarraga.gux@gmail.com
 
-[Facebook](https://www.facebook.com/Gusn8)
-
-[Twitter](https://www.twitter.com/Gusn8_)
-
-[Google Plus](https://www.plus.google.com/GustavoLizarraga)
-
-[Github](https://www.github.com/Gusn8)
-
-[Sitio Web](http://www.miramicodigo.com/)
+[Facebook](https://www.facebook.com/Gusn8) <br>
+[Twitter](https://www.twitter.com/Gusn8_)<br>
+[Google Plus](https://www.plus.google.com/GustavoLizarraga)<br>
+[Github](https://www.github.com/Gusn8)<br>
+[Sitio Web](http://www.miramicodigo.com/)<br>
