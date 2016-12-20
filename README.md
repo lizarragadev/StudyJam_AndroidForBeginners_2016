@@ -6,7 +6,7 @@ Proyecto Final - Study Jam II 2016
     </center>
 </div>
 
-Repositorio Proyecto Final del Study Jam Android Development for Beginners II 2016, llevado a cabo en la ciudad de La Paz, Bolivia a cargo del <a href="http://www.gdg.androidbolivia.com" target="_blank">GDG Android Bolivia</a> .
+Repositorio Proyecto Final del Study Jam Android Development for Beginners II 2016, llevado a cabo en la ciudad de La Paz, Bolivia a cargo del <a target="_blank" href="http://www.gdg.androidbolivia.com">GDG Android Bolivia</a> .
 
 Nombre Aplicación.
 ---
