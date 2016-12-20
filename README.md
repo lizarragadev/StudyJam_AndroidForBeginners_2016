@@ -2,15 +2,15 @@ Proyecto Final - Study Jam II 2016
 ===
 <div align="center">
     <center>
-        <img src="http://developerstudyjams.com/images/masthead.png" width="300px"/>
+        <img src="http://developerstudyjams.com/images/masthead.png" width="400px"/>
     </center>
 </div>
 
-Repositorio Proyecto Final del Study Jam Android Development for Beginners II 2016, llevado a cabo en la ciudad de La Paz, Bolivia a cargo del [GDG Android Bolivia](http://www.gdg.androidbolivia.com).
+Repositorio Proyecto Final del Study Jam Android Development for Beginners II 2016, llevado a cabo en la ciudad de La Paz, Bolivia a cargo del <a href="http://www.gdg.androidbolivia.com" target="_blank">GDG Android Bolivia</a> .
 
-Nombre Aplicacion.
+Nombre Aplicación.
 ---
-El nombre de la aplicacion es: SantaApp
+El nombre de la aplicación es: SantaApp
 
 Objetivo
 ---
@@ -18,13 +18,13 @@ Listar y detallar todos los lugares que Papa Noel debe visitar.
 
 Caracteristicas
 ---
-* Musica de fondo (Con opcion activar/desactivar).
-* Visualizar en Google Maps la ubicacion exacta del lugar.
-* Vibracion cuando encuentre un lugar donde deba dejar regalos.
+* Musica de fondo (Con opción activar/desactivar).
+* Visualizar en Google Maps la ubicación exacta del lugar.
+* Vibración cuando encuentre un lugar donde deba dejar regalos.
 
 Compatibilidad
 ---
-Esta aplicacion es compatible con versiones de Android 4.2 o superior.
+Esta aplicación es compatible con versiones de Android 4.2 o superior.
 
 Uso
 ---------
@@ -32,7 +32,7 @@ Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
 >     $ git clone https://github.com/Gusn8/ProyectoFinal_StudyJam.git
 
-Dentro de Android Studio:
+Luego de ello dentro de Android Studio:
 
 * File --> New --> Import Project 
 * Seleccionas la ruta donde hiciste el `clone` del proyecto.
@@ -54,21 +54,21 @@ Captura y corrida
 </div>
 <br>
 
-Descripcion tecnica
+Descripción técnica
 ---
-En este proyecto de utilizaron los siguiente componentes tanto en la vista como en la funcionalidad:
+En este proyecto de utilizaron los siguientes componentes tanto en la vista como en la funcionalidad:
 Vista:
-* LinearLayout (Horizontal) para la alineacion de las vistas principales.
+* LinearLayout (Horizontal) para la alineación de las vistas principales.
 * RelativeLayout, para el acomodamiento de la segunda pantalla: SegundaActivity.
-* ToggleButtons, para activar y/o desactivar el sonido en la aplicacion.
-* EditTexts, para recabar informacion acerca de los nombres de las personas.
+* ToggleButtons, para activar y/o desactivar el sonido en la aplicación.
+* EditTexts, para recabar información acerca de los nombres de las personas.
 .
 .
 .
 
 Funcionalidad:
-* MediaPlayer, para reproducir la cancion de fondo de la app.
-* Vibrator, para asignar una vibracion en ciertas partes de la app.
+* MediaPlayer, para reproducir la canción de fondo de la app.
+* Vibrator, para asignar una vibración en ciertas partes de la app.
 * Ciclo de vida de una Activity, para detectar cuando se coloca en Pausado asi pueda seguir ejecutandose una tarea.
 .
 .
