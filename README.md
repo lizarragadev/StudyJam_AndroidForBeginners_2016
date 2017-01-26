@@ -1,4 +1,4 @@
-Proyecto Final - Study Jam II 2016
+Study Jam (2da version 2016) - Android for Beginners
 ===
 <div align="center">
     <center>
@@ -6,88 +6,54 @@ Proyecto Final - Study Jam II 2016
     </center>
 </div>
 
-Repositorio Proyecto Final del Study Jam Android Development for Beginners II 2016, llevado a cabo en la ciudad de La Paz, Bolivia a cargo del <a target="_blank" href="http://www.gdg.androidbolivia.com">GDG Android Bolivia</a> .
+Durante la gestion 2016 se llevaron a cabo dos versiones del Study Jam, aca les resumimos el material llevado a cabo, todos los ejemplos almacenados en Github:
 
-Nombre Aplicación.
----
-El nombre de la aplicación es: SantaApp
+### Vistas 1
+[Repositorio de manejo basico de vistas](https://github.com/Gusn8/StudyJam_II_Views)
 
-Objetivo
----
-Listar y detallar todos los lugares que Papa Noel debe visitar.
+### Vistas 2
+[Repositorio de manejo basico de vistas 2da parte](https://github.com/Gusn8/StudyJam_II_Views_II)
 
-Caracteristicas
----
-* Música de fondo (Con opción activar/desactivar).
-* Visualizar en Google Maps la ubicación exacta del lugar.
-* Vibración cuando encuentre un lugar donde deba dejar regalos.
+### Interaccion con Java - 1
+[Integracion de XML con Java](https://github.com/Gusn8/StudyJam_II_Java_1)
 
-Wireframes
----
-Puedes visualizar los Wireframes de este proyecto.
+### Interaccion con Java - 2
+[Integracion con componentes de Java](https://github.com/Gusn8/StudyJam_II_Java_2)
 
-https://ninjamock.com/s/HHDDEE
+### Vistas personalizadas
+[Personalizacion de vistas para mejorar el Lookandfeel](https://github.com/Gusn8/StudyJam_II_CustomViews)
 
-Compatibilidad
----
-Esta aplicación es compatible con versiones de Android 4.2 o superior.
+### Animaciones
+[Animaciones a traves de XML](https://github.com/Gusn8/StudyJam_II_Animations)
 
-Uso
----------
-Para probar este ejemplo clona este repositorio de la siguiente forma:
->
->     $ git clone https://github.com/Gusn8/ProyectoFinal_StudyJam.git
+### Multimedia - MediaPlayer (Reproductor)
+[Reproductor de musica basico](https://github.com/Gusn8/StudyJam_II_Multimedia_Player)
 
-Luego de ello dentro de Android Studio:
+### Multimedia - SoundPool (Insultador)
+[Insultador que Homero regalo a Bart](https://github.com/Gusn8/StudyJam_II_Multimedia_Insultador)
 
-* File --> New --> Import Project 
-* Seleccionas la ruta donde hiciste el `clone` del proyecto.
-* Build --> Rebuild Project
-* Run 
+### Multimedia - Aplicacion oficial "No es que te ralles asi"
+[Aplicacion haciendo uso de Multimedia](https://github.com/Gusn8/StudyJam_II_Multimedia_Remix)
 
-Corrida previa
----
-Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
-<div align="center">
-    <center>
-        <table border="0">
-            <tr>
-                <td><img src="https://github.com/Gusn8/StudyJam_II_CustomListViews/blob/master/img/captura.gif" width="250"></td>
-                <td><img src="https://github.com/Gusn8/StudyJam_II_Animations/raw/master/img/corrida_02.gif" width="250"></td>
-                <td><img src="https://github.com/Gusn8/StudyJam_II_Intents/raw/master/img/corrida_02.gif" width="250"></td>
-            </tr>
-        </table>
-    </center>
-</div>
-<br>
+### Intents
+[Comunicacion entre activities y con otras aplicaciones](https://github.com/Gusn8/StudyJam_II_Intents)
 
-Descripción técnica
----
-En este proyecto de utilizáron los siguientes componentes tanto en el `diseño` como en la `funcionalidad`:
+### Persistencia
+[Almacenamiento de datos por SharedPreferences, Archivos internos y externos](https://github.com/Gusn8/StudyJam_II_Persistencia)
 
-**`Vista:`**
-* LinearLayout (Horizontal) para la alineación de las vistas principales.
-* RelativeLayout, para el acomodamiento de la segunda pantalla: SegundaActivity.
-* ToggleButtons, para activar y/o desactivar el sonido en la aplicación.
-* EditTexts, para recabar información acerca de los nombres de las personas.
-.
-.
-.
+### Listas personalizadas
+[Manejo de ListViews personalizados](https://github.com/Gusn8/StudyJam_II_CustomListViews)
 
-**`Funcionalidad:`**
-* MediaPlayer, para reproducir la canción de fondo de la app.
-* Vibrator, para asignar una vibración en ciertas partes de la app.
-* Ciclo de vida de una Activity, para detectar cuando se coloca en Pausado asi pueda seguir ejecutandose una tarea.
-.
-.
-.
+Fue un exitoso Study Jam, esperamos avanzar cada ves mas y todo lo tendras en nuestro repositorio.
 
-Autor(a)
----
-Gustavo Josue Lizarraga
+#### No olvides darle `estrellita` a los repositorios que te gusten.
 
-Contactos
----
+Instructor Study Jam
+ 
+#### Gustavo Josue Lizarraga
+
+##### Contactos
+
 lizarraga.gux@gmail.com
 
 [Facebook](https://www.facebook.com/Gusn8) <br>
