@@ -50,11 +50,11 @@ Fue un exitoso Study Jam, esperamos avanzar cada ves mas y todo lo tendras en nu
 
 #### No olvides darle `estrellita` a los repositorios que te gusten.
 
-### Instructor Study Jam
+## Instructor Study Jam
  
-#### Gustavo Josue Lizarraga
+#### [Gustavo Josué Lizárraga](https://gusn8.github.io/)
 
-#### Contactos
+### Contactos
 
 lizarraga.gux@gmail.com
 
