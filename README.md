@@ -9,50 +9,52 @@ Study Jam (2da version 2016) - Android for Beginners
 Durante la gestion 2016 se llevaron a cabo dos versiones del Study Jam, aca les resumimos el material llevado a cabo, todos los ejemplos almacenados en Github:
 
 ### Vistas 1
-[Repositorio de manejo basico de vistas](https://github.com/Gusn8/StudyJam_II_Views)
+* [Repositorio de manejo basico de vistas](https://github.com/Gusn8/StudyJam_II_Views)
 
 ### Vistas 2
-[Repositorio de manejo basico de vistas 2da parte](https://github.com/Gusn8/StudyJam_II_Views_II)
+* [Repositorio de manejo basico de vistas 2da parte](https://github.com/Gusn8/StudyJam_II_Views_II)
 
 ### Interaccion con Java - 1
-[Integracion de XML con Java](https://github.com/Gusn8/StudyJam_II_Java_1)
+* [Integracion de XML con Java](https://github.com/Gusn8/StudyJam_II_Java_1)
 
 ### Interaccion con Java - 2
-[Integracion con componentes de Java](https://github.com/Gusn8/StudyJam_II_Java_2)
+* [Integracion con componentes de Java](https://github.com/Gusn8/StudyJam_II_Java_2)
 
 ### Vistas personalizadas
-[Personalizacion de vistas para mejorar el Lookandfeel](https://github.com/Gusn8/StudyJam_II_CustomViews)
+* [Personalizacion de vistas para mejorar el Lookandfeel](https://github.com/Gusn8/StudyJam_II_CustomViews)
 
 ### Animaciones
-[Animaciones a traves de XML](https://github.com/Gusn8/StudyJam_II_Animations)
+* [Animaciones a traves de XML](https://github.com/Gusn8/StudyJam_II_Animations)
 
 ### Multimedia - MediaPlayer (Reproductor)
-[Reproductor de musica basico](https://github.com/Gusn8/StudyJam_II_Multimedia_Player)
+* [Reproductor de musica basico](https://github.com/Gusn8/StudyJam_II_Multimedia_Player)
 
 ### Multimedia - SoundPool (Insultador)
-[Insultador que Homero regalo a Bart](https://github.com/Gusn8/StudyJam_II_Multimedia_Insultador)
+* [Insultador que Homero regalo a Bart](https://github.com/Gusn8/StudyJam_II_Multimedia_Insultador)
 
 ### Multimedia - Aplicacion oficial "No es que te ralles asi"
-[Aplicacion haciendo uso de Multimedia](https://github.com/Gusn8/StudyJam_II_Multimedia_Remix)
+* [Aplicacion haciendo uso de Multimedia](https://github.com/Gusn8/StudyJam_II_Multimedia_Remix)
 
 ### Intents
-[Comunicacion entre activities y con otras aplicaciones](https://github.com/Gusn8/StudyJam_II_Intents)
+* [Comunicacion entre activities y con otras aplicaciones](https://github.com/Gusn8/StudyJam_II_Intents)
 
 ### Persistencia
-[Almacenamiento de datos por SharedPreferences, Archivos internos y externos](https://github.com/Gusn8/StudyJam_II_Persistencia)
+* [Almacenamiento de datos por SharedPreferences, Archivos internos y externos](https://github.com/Gusn8/StudyJam_II_Persistencia)
 
 ### Listas personalizadas
-[Manejo de ListViews personalizados](https://github.com/Gusn8/StudyJam_II_CustomListViews)
+* [Manejo de ListViews personalizados](https://github.com/Gusn8/StudyJam_II_CustomListViews)
+
+***
 
 Fue un exitoso Study Jam, esperamos avanzar cada ves mas y todo lo tendras en nuestro repositorio.
 
 #### No olvides darle `estrellita` a los repositorios que te gusten.
 
-Instructor Study Jam
+### Instructor Study Jam
  
 #### Gustavo Josue Lizarraga
 
-##### Contactos
+#### Contactos
 
 lizarraga.gux@gmail.com
 
