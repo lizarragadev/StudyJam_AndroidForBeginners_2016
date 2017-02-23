@@ -11,7 +11,7 @@ Durante la gestión 2016 se lleváron a cabo dos versiones del Study Jam, acá l
 ### Vistas 1
 * [Repositorio de manejo básico de vistas](https://github.com/Gusn8/StudyJam_II_Views)
 
-### Vistas 2
+### Vistas 2da parte
 * [Repositorio de manejo básico de vistas 2da parte](https://github.com/Gusn8/StudyJam_II_Views_II)
 
 ### Interaccion con Java - 1
