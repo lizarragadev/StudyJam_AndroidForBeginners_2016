@@ -6,6 +6,7 @@ Study Jam (2da versión 2016) - Android for Beginners
     </center>
 </div>
 
+
 Durante la gestión 2016 se lleváron a cabo dos versiones del Study Jam, acá les resumimos el material llevado a cabo, todos los codigos de ejemplo en Github:
 
 ### Vistas 1
@@ -46,7 +47,7 @@ Durante la gestión 2016 se lleváron a cabo dos versiones del Study Jam, acá l
 
 ***
 
-Fue un exitóso Study Jam, esperamos avanzar cada ves mas y todo lo tendrás en nuestro repositorio.
+Fue todo un exito el Study Jam, esperamos avanzar cada ves mas y todo lo tendrás en nuestro repositorio.
 
 #### No olvides darle `estrellita` a los repositorios que te gusten.
 
